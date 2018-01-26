@@ -1,0 +1,2 @@
+# ExamenAforeAzteca
+La aplicación tendrá una única actividad que muestra 2 botones y una imagen. Inicialmente, la imagen se puede dejar en blanco o se establece en un marcador de posición y el segundo botón (botón "Guardar") debe ser desactivada. Al presionar el primer botón (botón de "Hacer foto"), se solicita al usuario a tomar una fotografía con la cámara del dispositivo. Una vez que se toma la fotografía, la actividad debe mostrarlo. 
